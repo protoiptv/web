@@ -1,1 +1,2 @@
-# web
+# plugin.video.Anunnaki
+Anunnaki iptv
